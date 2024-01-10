@@ -369,6 +369,11 @@ main .container .left .profile {
   font-size: 1.1rem;
   margin: 0.6rem;
 }
+
+.action-button .interaction-buttons span .bi{
+ margin-right: 8px;
+
+}
 .middle .liked-by {
   display: flex;
 }
